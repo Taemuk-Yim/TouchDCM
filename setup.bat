@@ -1,0 +1,1 @@
+pyinstaller -F touch_dcm.py
